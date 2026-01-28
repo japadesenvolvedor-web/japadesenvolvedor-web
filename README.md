@@ -7,14 +7,6 @@
   <img src="https://github.com/user-attachments/assets/3714ccb5-1763-404a-a5cd-490de00e7bf8" alt="Demo" />
 </p>
 
-<!-- Snake Animation con en!
-lace a Platane/snk -->
-<a href="https://github.com/Platane/snk" target="_blank" rel="noopener noreferrer">
-  <img
-    alt="github contribution snake dark"
-    src="https://raw.githubusercontent.com/marichu-kt/marichu-kt/output/github-snake-dark.svg"
-  />
-</a>
 
 
 ## 🌿 Sobre Mim
